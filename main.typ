@@ -8,16 +8,16 @@
   ],
   authors: (
     (
-      name: "Cheng Bao",
+      name: "Bao Cheng",
       organization: [Wenzhou-Kean University],
       location: [1335784],
-      email: "1335784@wku.edu.cn"
+      email: "baoc@kean.edu"
     ),
     (
-      name: "Xinxin Qiu",
+      name: "Qiu Xinxin",
       organization: [Wenzhou-Kean University],
-      location: [1335784],
-      email: "1335783@wku.edu.cn"
+      location: [1335783],
+      email: "qiuxin@kean.edu"
     ),
   ),
   index-terms: ("Automated testing", "Mobile application", "Cases study", "automated testing tools"),
