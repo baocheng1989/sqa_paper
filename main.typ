@@ -24,6 +24,7 @@
   bibliography: bibliography("CPS5981-SQA.bib"),
   figure-supplement: [Fig.],
 )
+
 #show figure.caption: set align(center)
 #set par(first-line-indent: (amount:1em,all:true))
 = introduction
@@ -38,16 +39,16 @@ With the rapid growth of mobile devices and applications, the demand for high-qu
 
 = background knowledge
 
-== Mobile Testing: Automation vs Manual
-
-To clarify the topic we discuss, the definition of mobile application testing must be specified. According to Wikipedia, mobile application testing is a process by which application software developed for handheld mobile devices is tested for its functionality, usability and consistency. @MobileApplicationTesting2025 The types of mobile application testing divide into two kinds: manual testing and automated testing. Automated mobile application testing, also called mobile testing automation in some fields, involves using specialized tools and scripts to execute tests, validate an application's behavior, and ensure it meets the desired quality standards without human intervention. Because of the exclusion of the human factor, it accelerates the testing process and allows for achieve the continuous integration and continuous delivery (CI/CD) workflow in the development life cycle, as long as the many automated testing tools or platforms, shown as @fig:CI_CD. @MobileTestAutomation
-
 #figure(
   image("images/CICD.png"),
   caption: [Continuous Integration and Continuous Delivery (CI/CD) workflow & related tools in Mobile Application Testing],
 )<fig:CI_CD>
 
-== Mobile Application Testing Types
+== Mobile Testing Automation
+
+To clarify the topic we discuss, the definition of mobile application testing must be specified. According to Wikipedia, mobile application testing is a process by which application software developed for handheld mobile devices is tested for its functionality, usability and consistency. @MobileApplicationTesting2025 The types of mobile application testing divide into two kinds: manual testing and automated testing. Automated mobile application testing, also called mobile testing automation in some fields, involves using specialized tools and scripts to execute tests, validate an application's behavior, and ensure it meets the desired quality standards without human intervention. Because of the exclusion of the human factor, it accelerates the testing process and allows for achieve the continuous integration and continuous delivery (CI/CD) workflow in the development life cycle, as long as the many automated testing tools or platforms, shown as @fig:CI_CD. @MobileTestAutomation
+
+== Types of Mobile Application Testing
 
 As @fig:type_of_testing shows, considering the way of testing and the function-related aspect, the types of mobile application testing also can be divided into two major categories: functional testing and non-functional testing. Functional testing focuses on verifying the application's functionality, ensuring that it behaves as expected and meets the specified requirements. This includes unit testing, integration testing, system testing, and acceptance testing. Non-functional testing, on the other hand, evaluates the application's performance, security, usability, and compatibility across different devices and platforms. This includes performance testing, security testing, usability testing, and compatibility testing. @MobileTestAutomation 
 
@@ -106,6 +107,43 @@ Regression testing ensures that new code changes do not adversely affect the exi
 = automated testing frameworks & tools
 
 With the development of mobile testing automation going on, there are several frameworks and tools used widely in this field. The “framework” here refers to a combination of tools or software that provide the foundation for establishing automation testing by the users' own desire. Using the framework can accelerate the process of performing automation testing and prevent "re-inventing the wheel", which is considered a modern way of mobile testing automation in real-world practice. The following shows some of the most popular frameworks or tools, along with their features, pros and cons:
+
+== Selenium
+
+Selenium is a widely adopted open-source framework primarily designed for web application testing but extended for mobile web testing through integration with tools like Appium or Selendroid. @SeleniumOverview Selenium is not just one tool or API, it comprises many tools like Selenium WebDriver, Selenium IDE, and Selenium Grid. At its minimum, WebDriver talks to a browser through a driver, such as ChromeDriver for Google's Chrome/Chromium, GeckoDriver for Mozilla's Firefox, etc. Communication is two-way: WebDriver passes commands to the browser through the driver, and receives information back via the same route. Remote communication can also take place using Selenium Server or Selenium Grid, both of which in turn talk to the driver on the host system. @SeleniumComponents
+
+#figure(
+  image("images/remote_comms_server.png"),
+  caption: [Remote Communication Flow of Selenium],
+)
+
+=== Features
+
+A key strength of Selenium for mobile web testing is its support for cross-browser testing, allowing testers to verify application behavior across various mobile browsers (such as Chrome, Firefox, and Safari) on both Android and iOS devices. It leverages the WebDriver protocol—W3C-compliant in Selenium 4—to interact with mobile browsers, enabling simulation of user actions like clicks, swipes, and text input. Additionally, Selenium offers language flexibility, supporting multiple programming languages (Java, Python, C\#, Ruby, JavaScript), so testers can write scripts in their preferred language.
+
+To enhance mobile testing, Selenium integrates with Appium (for Android and iOS) or Selendroid (Android-only), utilizing its WebDriver API for mobile browser automation. It also provides the flexibility to run tests on real devices, emulators, or simulators, accommodating different testing environments. For scalability, Selenium Grid enables parallel test execution across multiple devices and browsers, reducing execution time. Test scripts can be made reusable and maintainable using frameworks like TestNG or JUnit, often following the Page Object Model (POM) for better organization. Furthermore, Selenium supports cloud-based testing through platforms like BrowserStack and Sauce Labs, allowing testers to evaluate mobile web applications across a wide range of devices and browser versions without requiring a local setup. These features make Selenium a robust choice for mobile web automation.
+
+=== Pros & Cons
+
+To breakdown the pros and cons of using Selenium, the following are the pros of using Selenium:
+
+- Open-Source & Free: No licensing costs, with strong community support.
+- Broad Browser Support: Works on Chrome, Firefox, Safari, and more.
+- Language & Framework Flexibility: Supports Java, Python, C\#, etc., and integrates with TestNG/JUnit.
+- Scalability with Selenium Grid: Enables parallel testing across devices for faster execution.
+- Strong Community & Ecosystem: Extensive documentation and third-party tool integrations (e.g., Allure, Extent Reports).
+- Easy Transition for Web Testers: Familiar Selenium WebDriver API works with Appium/Selendroid for mobile.
+- Cloud Integration: Works with BrowserStack, Sauce Labs for testing on multiple devices without local setup.
+
+And the cons of using Selenium are:
+
+- No Native Mobile App Support: Requires Appium/Selendroid for mobile apps, adding complexity.
+- Setup Complexity: Configuring Appium, Android SDK, or Node.js can be difficult for beginners.
+- Dynamic Content Challenges: Struggles with AJAX-heavy pages, needing manual waits.
+- Device Fragmentation Issues: Testing across different devices/OS versions can lead to inconsistencies.
+- No Built-in Reporting: Requires third-party tools (e.g., Allure) for detailed reports.
+- Limited Gesture Support: Mobile gestures (swipes, pinches) depend on Appium's TouchAction API.
+- Maintenance Overhead: Scripts may need frequent updates due to browser/UI changes.
 
 == Appium
 
@@ -195,6 +233,7 @@ XCUITest is Apple's native automation framework for testing iOS applications. Am
 === Features
 
 XCUITest, built and maintained by Apple, ensures seamless compatibility with the latest iOS versions and features. Known for its fast execution, intuitive operation, and low flakiness, it allows developers to write test scripts in Swift or Objective-C while leveraging their existing language skills. The framework supports comprehensive testing on both real iOS devices and simulators, while providing APIs to interact with various device features like camera, GPS, and accelerometer. XCUITest also includes accessibility testing features to ensure app usability for individuals with disabilities. With its robust automation features and tight integration with XCode and XCTest, it stands as a reliable choice for iOS app automation testing.
+
 
 #figure(
   image("images/XCUItest framework.png"),
