@@ -1,0 +1,1625 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/document/6496451/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2013 International Conference on Pattern Recognition, Informatics and Mobile Engineering</dc:title>
+                <dc:identifier>DOI 10.1109/ICPRIME.2013.6496451</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kirubakaran</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karthikeyani</foaf:surname>
+                        <foaf:givenName>V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_86"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>automation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Automation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mobile applications</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile communication</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Performance evaluation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Smart phones</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>software testing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Testing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Mobile application testing — Challenges and solution approach through automation</dc:title>
+        <dcterms:abstract>By the time this paper has been presented, the mobile app landscape will have changed. New OS versions will have been released. A bunch of new devices will have hit the market. And mobile application testing will have become that much more complex and challenging for all of us. There is no doubt that mobile applications need specific testing approaches. This paper wants to investigate new directions in research on the type of testing and skills required on mobile app testing by answering the following three research questions: (RQ1) How mobile applications testing are so different from traditional web applications, that require specialized testing skills and techniques?, (RQ2) What are the new challenges and future trends in mobile application testing, and (RQ3) How far automation effective in testing mobile application?. We answer those questions by analyzing the current trends in mobile application development and testing, and by proposing my view on the topic.</dcterms:abstract>
+        <dc:date>2013-02</dc:date>
+        <z:language>en-US</z:language>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/6496451/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 05:00:24</dcterms:dateSubmitted>
+        <bib:pages>79-84</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Pattern Recognition, Informatics and Mobile Engineering</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_86">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=6496451&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 05:00:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-5386-3868-2">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-5386-3868-2</dc:identifier>
+                <dc:title>2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE)</dc:title>
+                <dc:identifier>DOI 10.1109/ICSE.2017.65</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Buenos Aires</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Peng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xiangyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pistoia</foaf:surname>
+                        <foaf:givenName>Marco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zheng</foaf:surname>
+                        <foaf:givenName>Yunhui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marques</foaf:surname>
+                        <foaf:givenName>Manoel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zeng</foaf:surname>
+                        <foaf:givenName>Lingfei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_85"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Predictive models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile communication</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Testing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Biological neural networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Context modeling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Neurons</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Training</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Automatic Text Input Generation for Mobile Testing</dc:title>
+        <dc:date>5/2017</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7985701/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 03:09:02</dcterms:dateSubmitted>
+        <bib:pages>643-653</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_85">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=7985701&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 05:00:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-5090-1633-4">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-5090-1633-4</dc:identifier>
+                <dc:title>2016 XLII Latin American Computing Conference (CLEI)</dc:title>
+                <dc:identifier>DOI 10.1109/CLEI.2016.7833334</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Valparaíso, Chile</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bernardo Silva</foaf:surname>
+                        <foaf:givenName>Davi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Endo</foaf:surname>
+                        <foaf:givenName>Andre Takeshi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eler</foaf:surname>
+                        <foaf:givenName>Marcelo Medeiros</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Durelli</foaf:surname>
+                        <foaf:givenName>Vinicius H. S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_87"/>
+        <dc:relation rdf:resource="urn:isbn:978-0-7695-5056-5"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile communication</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Smart phones</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Testing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Android</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Androids</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humanoid robots</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile applications</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile Computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Open Source</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software Testing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>An analysis of automated tests for mobile Android applications</dc:title>
+        <dc:date>10/2016</dc:date>
+        <z:language>en-US</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7833334/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 03:03:04</dcterms:dateSubmitted>
+        <bib:pages>1-9</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2016 XLII Latin American Computing Conference (CLEI)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_87">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=7833334&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 04:59:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_75">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Mike Chieh-Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lane</foaf:surname>
+                        <foaf:givenName>Nicholas D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brouwers</foaf:surname>
+                        <foaf:givenName>Niels</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Li Lyna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karlsson</foaf:surname>
+                        <foaf:givenName>Börje F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Yan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shan</foaf:surname>
+                        <foaf:givenName>Xiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chandra</foaf:surname>
+                        <foaf:givenName>Ranveer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Feng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_88"/>
+        <dc:title>Context Virtualizer: A Cloud Service for Automated Large-scale Mobile App Testing under Real-World Conditions</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_88">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scispace.com/pdf/context-virtualizer-a-cloud-service-for-automated-large-3bybke4n81.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 03:12:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-3620-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-3620-8</dc:identifier>
+                <dc:title>Proceedings of the 2015 International Symposium on Software Testing and Analysis</dc:title>
+                <dc:identifier>DOI 10.1145/2771783.2771786</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Baltimore MD USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adamsen</foaf:surname>
+                        <foaf:givenName>Christoffer Quist</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mezzetti</foaf:surname>
+                        <foaf:givenName>Gianluca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Møller</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_89"/>
+        <dc:title>Systematic execution of Android test suites in adverse conditions</dc:title>
+        <dcterms:abstract>Event-driven applications, such as, mobile apps, are diﬃcult to test thoroughly. The application programmers often put signiﬁcant eﬀort into writing end-to-end test suites. Even though such tests often have high coverage of the source code, we ﬁnd that they often focus on the expected behavior, not on occurrences of unusual events. On the other hand, automated testing tools may be capable of exploring the state space more systematically, but this is mostly without knowledge of the intended behavior of the individual applications. As a consequence, many programming errors remain unnoticed until they are encountered by the users.</dcterms:abstract>
+        <dc:date>2015-07-13</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/2771783.2771786</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 03:10:59</dcterms:dateSubmitted>
+        <bib:pages>83-93</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>ISSTA '15: International Symposium on Software Testing and Analysis</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_89">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scispace.com/pdf/systematic-execution-of-android-test-suites-in-adverse-4u1hhm26pq.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 03:10:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-2159-4">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-2159-4</dc:identifier>
+                <dc:title>Proceedings of the 2013 International Symposium on Software Testing and Analysis</dc:title>
+                <dc:identifier>DOI 10.1145/2483760.2483777</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lugano Switzerland</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jensen</foaf:surname>
+                        <foaf:givenName>Casper S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prasad</foaf:surname>
+                        <foaf:givenName>Mukul R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Møller</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_90"/>
+        <dc:title>Automated testing with targeted event sequence generation</dc:title>
+        <dcterms:abstract>Automated software testing aims to detect errors by producing test inputs that cover as much of the application source code as possible. Applications for mobile devices are typically event-driven, which raises the challenge of automatically producing event sequences that result in high coverage. Some existing approaches use random or model-based testing that largely treats the application as a black box. Other approaches use symbolic execution, either starting from the entry points of the applications or on speciﬁc event sequences. A common limitation of the existing approaches is that they often fail to reach the parts of the application code that require more complex event sequences.</dcterms:abstract>
+        <dc:date>2013-07-15</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/2483760.2483777</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 03:10:32</dcterms:dateSubmitted>
+        <bib:pages>67-77</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>ISSTA '13: Iitsnternational Symposium on Software Testing and Analysis</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_90">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scispace.com/pdf/automated-testing-with-targeted-event-sequence-generation-7xzgx2jyw2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 03:10:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.worldscientific.com/doi/abs/10.1142/S0218194016710042">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0218-1940,%201793-6403"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tao</foaf:surname>
+                        <foaf:givenName>Chuanqi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Jerry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Building a Model-Based GUI Test Automation System for Mobile Applications</dc:title>
+        <dcterms:abstract>With the rapid advance of mobile computing technology and wireless networking, there is a significant increase of mobile applications (apps). This brings new business requirements and demands in mobile software testing, and causes new issues and challenges in mobile test automation. Existing mobile application testing approaches mostly concentrate on GUI-based testing, load and performance testing without considering large-scale concurrent mobile app test automation, and model-based test coverage analysis. In this paper, a mobile hierarchical GUI model is proposed to present mobile operation scenario flows and gesture features in a hierarchical manner, in order to facilitate test dependency analysis in test automation. Mobile app test coverage analysis is performed based on GUI ripping models. The paper also presents a developed system that provides a test automation solution using GUI models. Finally, the paper reports a case study to indicate the feasibility and effectiveness of the proposed approach.</dcterms:abstract>
+        <dc:date>11/2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.worldscientific.com/doi/abs/10.1142/S0218194016710042</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 03:08:00</dcterms:dateSubmitted>
+        <bib:pages>1605-1615</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0218-1940,%201793-6403">
+        <prism:volume>26</prism:volume>
+        <dc:title>International Journal of Software Engineering and Knowledge Engineering</dc:title>
+        <dc:identifier>DOI 10.1142/S0218194016710042</dc:identifier>
+        <prism:number>09n10</prism:number>
+        <dcterms:alternative>Int. J. Soft. Eng. Knowl. Eng.</dcterms:alternative>
+        <dc:identifier>ISSN 0218-1940, 1793-6403</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="urn:isbn:978-0-12-408094-2">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>89</prism:volume>
+                <dc:identifier>ISBN 978-0-12-408094-2</dc:identifier>
+                <dc:title>Advances in Computers</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Elsevier</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amalfitano</foaf:surname>
+                        <foaf:givenName>Domenico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fasolino</foaf:surname>
+                        <foaf:givenName>Anna Rita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tramontana</foaf:surname>
+                        <foaf:givenName>Porfirio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robbins</foaf:surname>
+                        <foaf:givenName>Bryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Testing Android Mobile Applications: Challenges, Strategies, and Approaches</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Testing Android Mobile Applications</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/B9780124080942000011</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 02:59:13</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1016/B978-0-12-408094-2.00001-1</dc:description>
+        <bib:pages>1-52</bib:pages>
+    </bib:BookSection>
+    <rdf:Description rdf:about="urn:isbn:978-1-5386-0992-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-5386-0992-7</dc:identifier>
+                <dc:title>2017 IEEE International Conference on Software Maintenance and Evolution (ICSME)</dc:title>
+                <dc:identifier>DOI 10.1109/ICSME.2017.27</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Shanghai</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Linares-Vasquez</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moran</foaf:surname>
+                        <foaf:givenName>Kevin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poshyvanyk</foaf:surname>
+                        <foaf:givenName>Denys</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_91"/>
+        <dc:title>Continuous, Evolutionary and Large-Scale: A New Perspective for Automated Mobile App Testing</dc:title>
+        <dc:date>9/2017</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>Continuous, Evolutionary and Large-Scale</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/8094439/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 02:58:41</dcterms:dateSubmitted>
+        <bib:pages>399-410</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2017 IEEE International Conference on Software Maintenance and Evolution (ICSME)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>已提交版本</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1801.06267</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 02:58:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-6654-4456-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-6654-4456-9</dc:identifier>
+                <dc:title>2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)</dc:title>
+                <dc:identifier>DOI 10.1109/ICSTW52544.2021.00033</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Porto de Galinhas, Brazil</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karlsson</foaf:surname>
+                        <foaf:givenName>Stefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Causevic</foaf:surname>
+                        <foaf:givenName>Adnan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sundmark</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larsson</foaf:surname>
+                        <foaf:givenName>Marten</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_92"/>
+        <dc:title>Model-based Automated Testing of Mobile Applications: An Industrial Case Study</dc:title>
+        <dc:date>4/2021</dc:date>
+        <z:shortTitle>Model-based Automated Testing of Mobile Applications</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9440191/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 02:57:14</dcterms:dateSubmitted>
+        <dc:rights>https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html</dc:rights>
+        <bib:pages>130-137</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_92">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>已提交版本</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2008.08859</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 02:57:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ijarsct.co.in/Paper6232.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2581-9429"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Vinaysimha Varma Yadavali</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_93"/>
+        <dc:title>Advancing Element Identification for Web and Mobile Automation</dc:title>
+        <dcterms:abstract>Element identification is a cornerstone of automation testing, directly influencing the reliability, scalability, and efficiency of test scripts. With the rapid evolution of web and mobile applications, traditional element identification methods—such as XPath, CSS Selectors, and static attributes—are increasingly challenged by dynamic DOM structures, shadow DOMs, virtual DOMs, and hybrid frameworks. These challenges are further amplified in mobile environments, where gestures, native elements, and platform-specific attributes add layers of complexity.
+This paper explores the advancements in element identification techniques that address these challenges for both web and mobile automation testing. It presents a comparative analysis of traditional methods and emerging solutions, highlighting their limitations in modern application scenarios. The study introduces hybrid strategies, including context-aware locators, heuristic-based identification, and early implementations of adaptive and self-healing locators. It also examines the role of cross-platform tools like Selenium, Appium, and Cypress in tackling identification issues.
+Furthermore, the paper emphasizes the importance of unified approaches that bridge web and mobile testing, particularly in hybrid applications with embedded web views. Future trends, such as collaborative tagging standards between development and testing teams, are discussed to provide a forward-looking perspective on overcoming element identification bottlenecks.
+By addressing key pain points and proposing innovative techniques, this paper aims to guide testers, developers, and tool creators in adopting resilient, scalable, and adaptable element identification strategies that meet the demands of modern software applications.</dcterms:abstract>
+        <dc:date>2024-8-30</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ijarsct.co.in/Paper6232.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 02:55:03</dcterms:dateSubmitted>
+        <bib:pages>45-56</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2581-9429">
+        <dc:title>International Journal of Advanced Research in Science, Communication and Technology</dc:title>
+        <dc:identifier>DOI 10.48175/IJARSCT-6232</dc:identifier>
+        <dcterms:alternative>IJARSCT</dcterms:alternative>
+        <dc:identifier>ISSN 2581-9429</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_93">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>全文</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ijarsct.co.in/Paper6232.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-24 02:55:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.grandviewresearch.com/industry-analysis/mobile-application-market/segmentation">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Grand View Research</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_147"/>
+        <dc:title>Mobile Application Market Size, Share &amp; Growth Report 2030</dc:title>
+        <dcterms:abstract>The global mobile application market size was valued at USD 252.89 billion in 2023 and is projected to grow at a CAGR of 14.3% from 2024 to 2030.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.grandviewresearch.com/industry-analysis/mobile-application-market/segmentation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-06 11:28:44</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_147">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.grandviewresearch.com/industry-analysis/mobile-application-market/segmentation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-06 11:28:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-0-7695-5056-5">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-0-7695-5056-5</dc:identifier>
+                <dc:title>2013 ACM / IEEE International Symposium on Empirical Software Engineering and Measurement</dc:title>
+                <dc:identifier>DOI 10.1109/ESEM.2013.9</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Baltimore, Maryland</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joorabchi</foaf:surname>
+                        <foaf:givenName>Mona Erfani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mesbah</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kruchten</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Real Challenges in Mobile App Development</dc:title>
+        <dc:date>10/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6681334/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-06 14:38:05</dcterms:dateSubmitted>
+        <bib:pages>15-24</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://en.wikipedia.org/w/index.php?title=Mobile_application_testing&amp;oldid=1272006010">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipedia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_159"/>
+        <dc:title>Mobile application testing</dc:title>
+        <dcterms:abstract>Mobile application testing is a process by which application software developed for handheld mobile devices is tested for its functionality, usability and consistency. Mobile application testing can be an automated or manual type of testing. Mobile applications either come pre-installed or can be installed from mobile software distribution platforms. Global mobile app revenues totaled 69.7 billion USD in 2015, and are predicted to account for US$188.9 billion by 2020.
+Bluetooth, GPS, sensors, and Wi-Fi are some of the core technologies at play in wearables. Mobile application testing accordingly focuses on field testing, user focus, and looking at areas where hardware and software need to be tested in unison.</dcterms:abstract>
+        <dc:date>2025-01-26T18:59:51Z</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/w/index.php?title=Mobile_application_testing&amp;oldid=1272006010</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 09:22:58</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 1272006010</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_159">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/wiki/Mobile_application_testing</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 09:23:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.tricentis.com/learn/mobile-test-automation-a-practical-introduction/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Tricentis</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_161"/>
+        <dc:title>Mobile Test Automation: Everything You Need to Know</dc:title>
+        <dcterms:abstract>Explore mobile test automation and its benefits. Discover key mobile testing tools for delivering high-quality mobile apps efficiently.</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <z:shortTitle>Mobile Test Automation</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/mobile-test-automation-a-practical-introduction/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 09:36:08</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_161">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/mobile-test-automation-a-practical-introduction</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 09:36:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.forrester.com/blogs/the-breathtaking-future-of-software-development-its-already-here/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Forrester</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Facemire</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_165"/>
+        <dc:title>The Breathtaking Future of Software Development -- It's Already Here!</dc:title>
+        <dcterms:abstract>&quot;The future is already here — it's just not very evenly distributed&quot; — William Gibson I recently drove a Tesla for the first time. As a kid that grew up in a car dealership (my father and grandfather both owned one) I grew up with a love of cars, speed, and pushing limits. Driving that […]</dcterms:abstract>
+        <dc:date>2015-09-09T20:58:32+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.forrester.com/blogs/the-breathtaking-future-of-software-development-its-already-here/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:04:26</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_165">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.forrester.com/blogs/the-breathtaking-future-of-software-development-its-already-here/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:04:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.forrester.com/blogs/13-04-22-development_in_the_enterprise_the_mobile_path_is_clear_and_getting_easier/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Forrester</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Facemire</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_166"/>
+        <dc:title>Development In The Enterprise: The Mobile Path Is Clear And Getting Easier!</dc:title>
+        <dcterms:abstract>I stated a few months ago that “data is the new currency” and that “the API layer will be the core around which every successful enterprise digital strategy is based.” Fast-forward to today: two moves this week prove that Intel and CA Technologies agree and are betting heavily on this strategy with acquisitions of Mashery […]</dcterms:abstract>
+        <dc:date>2013-04-22T22:37:35+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>Development In The Enterprise</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.forrester.com/blogs/13-04-22-development_in_the_enterprise_the_mobile_path_is_clear_and_getting_easier/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:04:30</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_166">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.forrester.com/blogs/13-04-22-development_in_the_enterprise_the_mobile_path_is_clear_and_getting_easier/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:04:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.forrester.com/blogs/mobiles-next-era-not-apps-not-websites-experiences/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Forrester</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Facemire</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_167"/>
+        <dc:title>Mobile's Next Era: Not Apps, Not Websites — Experiences!</dc:title>
+        <dcterms:abstract>I was fortunate this week to attend a presentation by James Whittaker in which he delivered his view on the next era of computing. This was one of the best presentations I’ve seen, because the content was presented in a compelling manner that created an outstanding overall experience. I point this out because it parallels […]</dcterms:abstract>
+        <dc:date>2013-02-01T08:15:14+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>Mobile's Next Era</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.forrester.com/blogs/mobiles-next-era-not-apps-not-websites-experiences/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:04:33</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_167">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.forrester.com/blogs/mobiles-next-era-not-apps-not-websites-experiences/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:04:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.tricentis.com/learn/functional-testing/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Tricentis</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_169"/>
+        <dc:title>Functional Testing</dc:title>
+        <dcterms:abstract>In software development, functional testing is performed to ensure that software works correctly. Read about the types of functional testing and more.</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/functional-testing/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:05:57</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_169">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/functional-testing</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:06:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.forrester.com/blogs/author/michael_facemire/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Forrester</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_171"/>
+        <dc:title>Michael Facemire</dc:title>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.forrester.com/blogs/author/michael_facemire/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:07:32</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_171">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.forrester.com/blogs/author/michael_facemire/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:07:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.tricentis.com/learn/software-testing">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_173"/>
+        <dc:title>Software Testing: What It Is and How to Do It Right - Tricentis</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/software-testing</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:08:39</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_173">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Software Testing: What It Is and How to Do It Right - Tricentis</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/software-testing</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:08:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.tricentis.com/learn/software-testing/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Tricentis</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_175"/>
+        <dc:title>Learn with Tricentis: What is software testing?</dc:title>
+        <dcterms:abstract>Learn fundamentals behind several core testing concepts. In this article, explore what software testing is all about such as the categories within it, as well as the benefits.</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <z:shortTitle>Learn with Tricentis</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/software-testing/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:09:49</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_175">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/software-testing</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:09:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.tricentis.com/learn/regression-testing/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Tricentis</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_177"/>
+        <dc:title>Regression Testing</dc:title>
+        <dcterms:abstract>Regression testing essentially involves rerunning already-executed test cases to make sure software works as intended. Read about the benefits.</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/regression-testing/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:11:02</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_177">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tricentis.com/learn/regression-testing</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 11:11:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://browserstack.wpengine.com/guide/mobile-application-testing-frameworks/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>BrowserStack</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_179"/>
+        <dc:title>Best Automation Mobile Testing Tools and Frameworks</dc:title>
+        <dcterms:abstract>Discover the best mobile automation testing tools and frameworks to ensure fast, reliable, and scalable testing for iOS and Android applications.</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://browserstack.wpengine.com/guide/mobile-application-testing-frameworks/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 12:18:07</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_179">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.browserstack.com/guide/mobile-application-testing-frameworks</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 12:18:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4673-8537-4">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4673-8537-4</dc:identifier>
+                <dc:title>2015 Third International Conference on Advanced Cloud and Big Data</dc:title>
+                <dc:identifier>DOI 10.1109/CBD.2015.30</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Yangzhou, Jiangsu, China</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tao</foaf:surname>
+                        <foaf:givenName>Chuanqi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Jerry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Bixin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Cloud-Based Infrastructure for Mobile Testing as a Service</dc:title>
+        <dc:date>10/2015</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7435464/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 13:33:31</dcterms:dateSubmitted>
+        <bib:pages>133-140</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2015 Third International Conference on Advanced Cloud and Big Data (CBD)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Document rdf:about="https://sidgs.com/insights/future-of-mobile-app-testing-what-to-expect-in-the-coming-years/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>SID Global Solutions</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_182"/>
+        <dc:title>Future of Mobile App Testing – What to Expect in the Coming Years?</dc:title>
+        <dcterms:abstract>The world of mobile app testing has been steadily evolving over the years, with new technologies emerging and changing the way we test and develop mobile applications.</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sidgs.com/insights/future-of-mobile-app-testing-what-to-expect-in-the-coming-years/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 14:46:24</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_182">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sidgs.com/insights/future-of-mobile-app-testing-what-to-expect-in-the-coming-years/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 14:46:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.testim.io/blog/the-evolution-of-mobile-applications-why-automated-testing-is-the-future/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+                <dc:title>AI-driven E2E automation with code-like flexibility for your most resilient tests</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moore</foaf:surname>
+                        <foaf:givenName>Scott</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_185"/>
+        <dc:title>Mobile App Evolution: The Future for Automated Testing</dc:title>
+        <dcterms:abstract>Mobile applications continue to play an increasingly significant role in our daily lives. Automated testing is the future to address quality.</dcterms:abstract>
+        <dc:date>2025-02-15T11:00:03+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>Mobile App Evolution</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.testim.io/blog/the-evolution-of-mobile-applications-why-automated-testing-is-the-future/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 14:47:38</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_185">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.testim.io/blog/the-evolution-of-mobile-applications-why-automated-testing-is-the-future/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-11 14:47:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.statista.com/statistics/245501/multiple-mobile-device-ownership-worldwide/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Statista</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_187"/>
+        <dc:title>Number of mobile devices worldwide 2020-2025</dc:title>
+        <dcterms:abstract>In 2021, the number of mobile devices operating worldwide stood at almost 15 billion, up from just over 14 billion in the previous year.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.statista.com/statistics/245501/multiple-mobile-device-ownership-worldwide/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 14:45:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_187">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.statista.com/statistics/245501/multiple-mobile-device-ownership-worldwide/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 14:45:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://appium.io/docs/en/latest/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_189"/>
+        <dc:title>Welcome - Appium Documentation</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://appium.io/docs/en/latest/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 15:14:41</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_189">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Welcome - Appium Documentation</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://appium.io/docs/en/latest/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 15:14:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://nightwatchjs.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Nightwatch.js</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_191"/>
+        <dc:title>Nightwatch V3 | Node.js powered End-to-End testing framework</dc:title>
+        <dcterms:abstract>Write efficient end-to-end tests in Node.js and run them against W3C WebDriver.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://nightwatchjs.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 15:46:41</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_191">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://nightwatchjs.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 15:46:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://github.com/calabash">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_193"/>
+        <dc:title>Calabash</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/calabash</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 15:53:57</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_193">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Calabash</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/calabash</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 15:54:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.lambdatest.com/xcuitest">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_195"/>
+        <dc:title>XCUITest Tutorial – A Detailed Guide On XCUITest Framework</dc:title>
+        <dcterms:abstract>In this XCUITest tutorial, learn about XCUITest framework and its benefits for mobile automation testing. Take a look at how XCUITest works and see how to use it to test your mobile applications.</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.lambdatest.com/xcuitest</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 15:57:14</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_195">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.lambdatest.com/xcuitest</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15 15:57:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.selenium.dev/documentation/overview/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Selenium</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_198"/>
+        <dc:title>Selenium Overview</dc:title>
+        <dcterms:abstract>Is Selenium for you? See an overview of the different project components.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.selenium.dev/documentation/overview/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-18 04:51:35</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_198">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.selenium.dev/documentation/overview/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-18 04:51:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.selenium.dev/documentation/overview/components/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Selenium</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_199"/>
+        <dc:title>Selenium components</dc:title>
+        <dcterms:abstract>Building a test suite using WebDriver will require you to understand and effectively use several components. As with everything in software, different people use different terms for the same idea. Below is a breakdown of how terms are used in this description.
+Terminology API: Application Programming Interface. This is the set of “commands” you use to manipulate WebDriver. Library: A code module that contains the APIs and the code necessary to implement them.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.selenium.dev/documentation/overview/components/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-18 04:51:39</dcterms:dateSubmitted>
+        <dc:description>Section: documentation</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_199">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.selenium.dev/documentation/overview/components/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-18 04:51:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
