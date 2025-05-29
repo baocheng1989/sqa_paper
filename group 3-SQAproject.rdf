@@ -1,0 +1,1157 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <bib:Article rdf:about="#item_101">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>58</prism:volume>
+                <dc:title>Automatic Documentation and Mathematical Linguistics</dc:title>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamedova</foaf:surname>
+                        <foaf:givenName>A. N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bortsov</foaf:surname>
+                        <foaf:givenName>S. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_129"/>
+        <dc:title>Automated Solution of Qualitative Image Analysis Problem Based on Laplace Variation for Mobile Application Development</dc:title>
+        <dc:date>2025</dc:date>
+        <bib:pages>401–414</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_129"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_102">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>27</prism:volume>
+                <dc:title>Soft Computing</dc:title>
+                <prism:number>15</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thanh</foaf:surname>
+                        <foaf:givenName>D. T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huy</foaf:surname>
+                        <foaf:givenName>D. T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Su</foaf:surname>
+                        <foaf:givenName>H. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_130"/>
+        <dcterms:isReferencedBy rdf:resource="#item_131"/>
+        <dc:title>Mobile robot: automatic speech recognition application for automation and STEM education</dc:title>
+        <dc:date>2023</dc:date>
+        <bib:pages>10789–10805</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_130"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_131"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_103">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>9</prism:volume>
+                <dc:title>Modeling Earth Systems and Environment</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>S</foaf:surname>
+                        <foaf:givenName>S. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>K</foaf:surname>
+                        <foaf:givenName>R. S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>N</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_132"/>
+        <dcterms:isReferencedBy rdf:resource="#item_133"/>
+        <dcterms:isReferencedBy rdf:resource="#item_134"/>
+        <dc:title>Assessment of influencing factors in selecting effective mobile applications—a drive toward automation in construction projects</dc:title>
+        <dc:date>2023</dc:date>
+        <bib:pages>3747–3754</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_132"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_133"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_134"><rdf:value></rdf:value></bib:Memo>
+    <bib:Book rdf:about="#item_104">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>BPB Publishers</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yogashiva</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_135"/>
+        <dcterms:isReferencedBy rdf:resource="#item_136"/>
+        <dcterms:isReferencedBy rdf:resource="#item_137"/>
+        <dcterms:isReferencedBy rdf:resource="#item_138"/>
+        <dc:title>Selenium and Appium with Python: Build robust and scalable test automation frameworks using Selenium, Appium and Python (English Edition)</dc:title>
+        <dc:date>2023</dc:date>
+    </bib:Book>
+   <bib:Memo rdf:about="#item_135"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_136"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_137"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_138"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_106">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>227</prism:volume>
+                <dc:title>The Journal of Systems &amp; Software</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ardic</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brandt</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khatami</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_139"/>
+        <dcterms:isReferencedBy rdf:resource="#item_140"/>
+        <dcterms:isReferencedBy rdf:resource="#item_141"/>
+        <dcterms:isReferencedBy rdf:resource="#item_142"/>
+        <dcterms:isReferencedBy rdf:resource="#item_143"/>
+        <dc:title>The qualitative factor in software testing: A systematic mapping study of qualitative methods</dc:title>
+        <dc:date>2025</dc:date>
+        <bib:pages>112447</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_139"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_140"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_141"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_142"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_143"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_107">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>277</prism:volume>
+                <dc:title>Expert Systems With Applications</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Polanski</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roman</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zelek</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_144"/>
+        <dcterms:isReferencedBy rdf:resource="#item_145"/>
+        <dcterms:isReferencedBy rdf:resource="#item_146"/>
+        <dcterms:isReferencedBy rdf:resource="#item_147"/>
+        <dcterms:isReferencedBy rdf:resource="#item_148"/>
+        <dcterms:isReferencedBy rdf:resource="#item_149"/>
+        <dc:title>Optimal solutions for variants of graph coverage-related problems in software test design</dc:title>
+        <dc:date>2025</dc:date>
+        <bib:pages>127216</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_144"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_145"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_146"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_147"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_148"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_149"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_108">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>27</prism:volume>
+                <dc:title>Journal of Engineering Research and Reports</dc:title>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wairagade</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuthrell</foaf:surname>
+                        <foaf:givenName>M. K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_150"/>
+        <dcterms:isReferencedBy rdf:resource="#item_151"/>
+        <dcterms:isReferencedBy rdf:resource="#item_152"/>
+        <dcterms:isReferencedBy rdf:resource="#item_153"/>
+        <dcterms:isReferencedBy rdf:resource="#item_154"/>
+        <dcterms:isReferencedBy rdf:resource="#item_155"/>
+        <dcterms:isReferencedBy rdf:resource="#item_156"/>
+        <dc:title>A Systematic Review of AI-Powered Software Testing in Healthcare: Methodologies, Challenges, and Future Directions</dc:title>
+        <dc:date>2025</dc:date>
+        <bib:pages>264–277</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_150"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_151"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_152"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_153"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_154"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_155"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_156"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_109">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <dc:title>Innovative Applications of AI</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_157"/>
+        <dcterms:isReferencedBy rdf:resource="#item_158"/>
+        <dcterms:isReferencedBy rdf:resource="#item_159"/>
+        <dcterms:isReferencedBy rdf:resource="#item_160"/>
+        <dcterms:isReferencedBy rdf:resource="#item_161"/>
+        <dcterms:isReferencedBy rdf:resource="#item_162"/>
+        <dcterms:isReferencedBy rdf:resource="#item_163"/>
+        <dcterms:isReferencedBy rdf:resource="#item_164"/>
+        <dc:title>Analysis of the Effectiveness of Artificial Intelligence Technology in Defect Prediction in Software Testing</dc:title>
+        <dc:date>2025</dc:date>
+        <bib:pages>13–16</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_157"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_158"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_159"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_160"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_161"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_162"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_163"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_164"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_110">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>Computers</dc:title>
+                <prism:number>12</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dongmo</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_165"/>
+        <dcterms:isReferencedBy rdf:resource="#item_166"/>
+        <dcterms:isReferencedBy rdf:resource="#item_167"/>
+        <dcterms:isReferencedBy rdf:resource="#item_168"/>
+        <dcterms:isReferencedBy rdf:resource="#item_169"/>
+        <dcterms:isReferencedBy rdf:resource="#item_170"/>
+        <dcterms:isReferencedBy rdf:resource="#item_171"/>
+        <dcterms:isReferencedBy rdf:resource="#item_172"/>
+        <dcterms:isReferencedBy rdf:resource="#item_173"/>
+        <dc:title>A Review of Non-Functional Requirements Analysis Throughout the SDLC</dc:title>
+        <dc:date>2024</dc:date>
+        <bib:pages>308</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_165"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_166"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_167"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_168"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_169"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_170"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_171"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_172"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_173"><rdf:value></rdf:value></bib:Memo>
+    <rdf:Description rdf:about="#item_111">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2012 7th International Workshop on Automation of Software Test (AST)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IEEE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muccini</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Di Francesco</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Esposito</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_174"/>
+        <dcterms:isReferencedBy rdf:resource="#item_175"/>
+        <dcterms:isReferencedBy rdf:resource="#item_176"/>
+        <dcterms:isReferencedBy rdf:resource="#item_177"/>
+        <dcterms:isReferencedBy rdf:resource="#item_178"/>
+        <dcterms:isReferencedBy rdf:resource="#item_179"/>
+        <dcterms:isReferencedBy rdf:resource="#item_180"/>
+        <dcterms:isReferencedBy rdf:resource="#item_181"/>
+        <dcterms:isReferencedBy rdf:resource="#item_182"/>
+        <dcterms:isReferencedBy rdf:resource="#item_183"/>
+        <dc:title>Software testing of mobile applications: Challenges and future research directions</dc:title>
+        <dc:date>2012</dc:date>
+        <bib:pages>29–35</bib:pages>
+    </rdf:Description>
+   <bib:Memo rdf:about="#item_174"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_175"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_176"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_177"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_178"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_179"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_180"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_181"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_182"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_183"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_112">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>9</prism:volume>
+                <dc:title>International Journal of Modern Education and Computer Science</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alotaibi</foaf:surname>
+                        <foaf:givenName>A. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qureshi</foaf:surname>
+                        <foaf:givenName>R. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_184"/>
+        <dcterms:isReferencedBy rdf:resource="#item_185"/>
+        <dcterms:isReferencedBy rdf:resource="#item_186"/>
+        <dcterms:isReferencedBy rdf:resource="#item_187"/>
+        <dcterms:isReferencedBy rdf:resource="#item_188"/>
+        <dcterms:isReferencedBy rdf:resource="#item_189"/>
+        <dcterms:isReferencedBy rdf:resource="#item_190"/>
+        <dcterms:isReferencedBy rdf:resource="#item_191"/>
+        <dcterms:isReferencedBy rdf:resource="#item_192"/>
+        <dcterms:isReferencedBy rdf:resource="#item_193"/>
+        <dcterms:isReferencedBy rdf:resource="#item_194"/>
+        <dc:title>Novel framework for automation testing of mobile applications using Appium</dc:title>
+        <dc:date>2017</dc:date>
+        <bib:pages>34</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_184"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_185"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_186"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_187"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_188"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_189"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_190"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_191"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_192"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_193"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_194"><rdf:value></rdf:value></bib:Memo>
+    <rdf:Description rdf:about="#item_113">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IEEE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Shengcheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_195"/>
+        <dcterms:isReferencedBy rdf:resource="#item_196"/>
+        <dcterms:isReferencedBy rdf:resource="#item_197"/>
+        <dcterms:isReferencedBy rdf:resource="#item_198"/>
+        <dcterms:isReferencedBy rdf:resource="#item_199"/>
+        <dcterms:isReferencedBy rdf:resource="#item_200"/>
+        <dcterms:isReferencedBy rdf:resource="#item_201"/>
+        <dcterms:isReferencedBy rdf:resource="#item_202"/>
+        <dcterms:isReferencedBy rdf:resource="#item_203"/>
+        <dcterms:isReferencedBy rdf:resource="#item_204"/>
+        <dcterms:isReferencedBy rdf:resource="#item_205"/>
+        <dcterms:isReferencedBy rdf:resource="#item_206"/>
+        <dc:title>Layout and image recognition driving cross-platform automated mobile testing</dc:title>
+        <dc:date>2021</dc:date>
+    </rdf:Description>
+   <bib:Memo rdf:about="#item_195"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_196"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_197"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_198"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_199"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_200"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_201"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_202"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_203"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_204"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_205"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_206"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_114">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>11</prism:volume>
+                <dc:title>Journal of Mobile Computing</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jain</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sinha</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_207"/>
+        <dcterms:isReferencedBy rdf:resource="#item_208"/>
+        <dcterms:isReferencedBy rdf:resource="#item_209"/>
+        <dcterms:isReferencedBy rdf:resource="#item_210"/>
+        <dcterms:isReferencedBy rdf:resource="#item_211"/>
+        <dcterms:isReferencedBy rdf:resource="#item_212"/>
+        <dcterms:isReferencedBy rdf:resource="#item_213"/>
+        <dcterms:isReferencedBy rdf:resource="#item_214"/>
+        <dcterms:isReferencedBy rdf:resource="#item_215"/>
+        <dcterms:isReferencedBy rdf:resource="#item_216"/>
+        <dcterms:isReferencedBy rdf:resource="#item_217"/>
+        <dcterms:isReferencedBy rdf:resource="#item_218"/>
+        <dcterms:isReferencedBy rdf:resource="#item_219"/>
+        <dc:title>Enhancing Mobile App Testing with AI-Driven Automation Tools</dc:title>
+        <dc:date>2022</dc:date>
+        <bib:pages>101–113</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_207"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_208"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_209"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_210"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_211"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_212"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_213"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_214"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_215"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_216"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_217"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_218"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_219"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_115">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>104</prism:volume>
+                <dc:title>Information and Software Technology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gerasimou</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_220"/>
+        <dcterms:isReferencedBy rdf:resource="#item_221"/>
+        <dcterms:isReferencedBy rdf:resource="#item_222"/>
+        <dcterms:isReferencedBy rdf:resource="#item_223"/>
+        <dcterms:isReferencedBy rdf:resource="#item_224"/>
+        <dcterms:isReferencedBy rdf:resource="#item_225"/>
+        <dcterms:isReferencedBy rdf:resource="#item_226"/>
+        <dcterms:isReferencedBy rdf:resource="#item_227"/>
+        <dcterms:isReferencedBy rdf:resource="#item_228"/>
+        <dcterms:isReferencedBy rdf:resource="#item_229"/>
+        <dcterms:isReferencedBy rdf:resource="#item_230"/>
+        <dcterms:isReferencedBy rdf:resource="#item_231"/>
+        <dcterms:isReferencedBy rdf:resource="#item_232"/>
+        <dcterms:isReferencedBy rdf:resource="#item_233"/>
+        <dc:title>Search-based test generation for mobile apps: A survey</dc:title>
+        <dc:date>2018</dc:date>
+        <bib:pages>1–20</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_220"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_221"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_222"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_223"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_224"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_225"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_226"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_227"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_228"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_229"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_230"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_231"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_232"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_233"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_116">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>76</prism:volume>
+                <dc:title>Information and Software Technology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moreno</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_234"/>
+        <dcterms:isReferencedBy rdf:resource="#item_235"/>
+        <dcterms:isReferencedBy rdf:resource="#item_236"/>
+        <dcterms:isReferencedBy rdf:resource="#item_237"/>
+        <dcterms:isReferencedBy rdf:resource="#item_238"/>
+        <dcterms:isReferencedBy rdf:resource="#item_239"/>
+        <dcterms:isReferencedBy rdf:resource="#item_240"/>
+        <dcterms:isReferencedBy rdf:resource="#item_241"/>
+        <dcterms:isReferencedBy rdf:resource="#item_242"/>
+        <dcterms:isReferencedBy rdf:resource="#item_243"/>
+        <dcterms:isReferencedBy rdf:resource="#item_244"/>
+        <dcterms:isReferencedBy rdf:resource="#item_245"/>
+        <dcterms:isReferencedBy rdf:resource="#item_246"/>
+        <dcterms:isReferencedBy rdf:resource="#item_247"/>
+        <dcterms:isReferencedBy rdf:resource="#item_248"/>
+        <dc:title>A systematic literature review of software test automation</dc:title>
+        <dc:date>2016</dc:date>
+        <bib:pages>92–108</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_234"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_235"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_236"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_237"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_238"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_239"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_240"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_241"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_242"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_243"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_244"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_245"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_246"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_247"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_248"><rdf:value></rdf:value></bib:Memo>
+    <rdf:Description rdf:about="#item_117">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Proceedings of ICSE</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Linares-Vásquez</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_249"/>
+        <dcterms:isReferencedBy rdf:resource="#item_250"/>
+        <dcterms:isReferencedBy rdf:resource="#item_251"/>
+        <dcterms:isReferencedBy rdf:resource="#item_252"/>
+        <dcterms:isReferencedBy rdf:resource="#item_253"/>
+        <dcterms:isReferencedBy rdf:resource="#item_254"/>
+        <dcterms:isReferencedBy rdf:resource="#item_255"/>
+        <dcterms:isReferencedBy rdf:resource="#item_256"/>
+        <dcterms:isReferencedBy rdf:resource="#item_257"/>
+        <dcterms:isReferencedBy rdf:resource="#item_258"/>
+        <dcterms:isReferencedBy rdf:resource="#item_259"/>
+        <dcterms:isReferencedBy rdf:resource="#item_260"/>
+        <dcterms:isReferencedBy rdf:resource="#item_261"/>
+        <dcterms:isReferencedBy rdf:resource="#item_262"/>
+        <dcterms:isReferencedBy rdf:resource="#item_263"/>
+        <dcterms:isReferencedBy rdf:resource="#item_264"/>
+        <dc:title>Enabling visual GUI testing for mobile apps with GATOR</dc:title>
+        <dc:date>2017</dc:date>
+        <bib:pages>540–550</bib:pages>
+    </rdf:Description>
+   <bib:Memo rdf:about="#item_249"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_250"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_251"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_252"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_253"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_254"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_255"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_256"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_257"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_258"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_259"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_260"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_261"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_262"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_263"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_264"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_118">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <dc:title>Empirical Software Engineering</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rauf</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Memon</foaf:surname>
+                        <foaf:givenName>A. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_265"/>
+        <dcterms:isReferencedBy rdf:resource="#item_266"/>
+        <dcterms:isReferencedBy rdf:resource="#item_267"/>
+        <dcterms:isReferencedBy rdf:resource="#item_268"/>
+        <dcterms:isReferencedBy rdf:resource="#item_269"/>
+        <dcterms:isReferencedBy rdf:resource="#item_270"/>
+        <dcterms:isReferencedBy rdf:resource="#item_271"/>
+        <dcterms:isReferencedBy rdf:resource="#item_272"/>
+        <dcterms:isReferencedBy rdf:resource="#item_273"/>
+        <dcterms:isReferencedBy rdf:resource="#item_274"/>
+        <dcterms:isReferencedBy rdf:resource="#item_275"/>
+        <dcterms:isReferencedBy rdf:resource="#item_276"/>
+        <dcterms:isReferencedBy rdf:resource="#item_277"/>
+        <dcterms:isReferencedBy rdf:resource="#item_278"/>
+        <dcterms:isReferencedBy rdf:resource="#item_279"/>
+        <dcterms:isReferencedBy rdf:resource="#item_280"/>
+        <dcterms:isReferencedBy rdf:resource="#item_281"/>
+        <dc:title>Test reuse in automated mobile app testing</dc:title>
+        <dc:date>2015</dc:date>
+        <bib:pages>1–28</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_265"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_266"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_267"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_268"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_269"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_270"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_271"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_272"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_273"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_274"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_275"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_276"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_277"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_278"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_279"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_280"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_281"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_119">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>53</prism:volume>
+                <dc:title>ACM Computing Surveys</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mesbah</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prasetya</foaf:surname>
+                        <foaf:givenName>I. S. W. B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_282"/>
+        <dcterms:isReferencedBy rdf:resource="#item_283"/>
+        <dcterms:isReferencedBy rdf:resource="#item_284"/>
+        <dcterms:isReferencedBy rdf:resource="#item_285"/>
+        <dcterms:isReferencedBy rdf:resource="#item_286"/>
+        <dcterms:isReferencedBy rdf:resource="#item_287"/>
+        <dcterms:isReferencedBy rdf:resource="#item_288"/>
+        <dcterms:isReferencedBy rdf:resource="#item_289"/>
+        <dcterms:isReferencedBy rdf:resource="#item_290"/>
+        <dcterms:isReferencedBy rdf:resource="#item_291"/>
+        <dcterms:isReferencedBy rdf:resource="#item_292"/>
+        <dcterms:isReferencedBy rdf:resource="#item_293"/>
+        <dcterms:isReferencedBy rdf:resource="#item_294"/>
+        <dcterms:isReferencedBy rdf:resource="#item_295"/>
+        <dcterms:isReferencedBy rdf:resource="#item_296"/>
+        <dcterms:isReferencedBy rdf:resource="#item_297"/>
+        <dcterms:isReferencedBy rdf:resource="#item_298"/>
+        <dcterms:isReferencedBy rdf:resource="#item_299"/>
+        <dc:title>A survey of automated test oracles for GUIs</dc:title>
+        <dc:date>2020</dc:date>
+        <bib:pages>1–40</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_282"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_283"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_284"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_285"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_286"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_287"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_288"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_289"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_290"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_291"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_292"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_293"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_294"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_295"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_296"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_297"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_298"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_299"><rdf:value></rdf:value></bib:Memo>
+    <rdf:Description rdf:about="#item_120">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Proceedings of Mobiquitous</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_300"/>
+        <dcterms:isReferencedBy rdf:resource="#item_301"/>
+        <dcterms:isReferencedBy rdf:resource="#item_302"/>
+        <dcterms:isReferencedBy rdf:resource="#item_303"/>
+        <dcterms:isReferencedBy rdf:resource="#item_304"/>
+        <dcterms:isReferencedBy rdf:resource="#item_305"/>
+        <dcterms:isReferencedBy rdf:resource="#item_306"/>
+        <dcterms:isReferencedBy rdf:resource="#item_307"/>
+        <dcterms:isReferencedBy rdf:resource="#item_308"/>
+        <dcterms:isReferencedBy rdf:resource="#item_309"/>
+        <dcterms:isReferencedBy rdf:resource="#item_310"/>
+        <dcterms:isReferencedBy rdf:resource="#item_311"/>
+        <dcterms:isReferencedBy rdf:resource="#item_312"/>
+        <dcterms:isReferencedBy rdf:resource="#item_313"/>
+        <dcterms:isReferencedBy rdf:resource="#item_314"/>
+        <dcterms:isReferencedBy rdf:resource="#item_315"/>
+        <dcterms:isReferencedBy rdf:resource="#item_316"/>
+        <dcterms:isReferencedBy rdf:resource="#item_317"/>
+        <dcterms:isReferencedBy rdf:resource="#item_318"/>
+        <dc:title>DroidBot: A Lightweight UI-Guided Test Input Generator for Android</dc:title>
+        <dc:date>2015</dc:date>
+        <bib:pages>2–11</bib:pages>
+    </rdf:Description>
+   <bib:Memo rdf:about="#item_300"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_301"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_302"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_303"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_304"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_305"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_306"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_307"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_308"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_309"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_310"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_311"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_312"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_313"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_314"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_315"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_316"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_317"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_318"><rdf:value></rdf:value></bib:Memo>
+    <bib:Article rdf:about="#item_121">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>199</prism:volume>
+                <dc:title>Journal of Systems and Software</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alshraideh</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_319"/>
+        <dcterms:isReferencedBy rdf:resource="#item_320"/>
+        <dcterms:isReferencedBy rdf:resource="#item_321"/>
+        <dcterms:isReferencedBy rdf:resource="#item_322"/>
+        <dcterms:isReferencedBy rdf:resource="#item_323"/>
+        <dcterms:isReferencedBy rdf:resource="#item_324"/>
+        <dcterms:isReferencedBy rdf:resource="#item_325"/>
+        <dcterms:isReferencedBy rdf:resource="#item_326"/>
+        <dcterms:isReferencedBy rdf:resource="#item_327"/>
+        <dcterms:isReferencedBy rdf:resource="#item_328"/>
+        <dcterms:isReferencedBy rdf:resource="#item_329"/>
+        <dcterms:isReferencedBy rdf:resource="#item_330"/>
+        <dcterms:isReferencedBy rdf:resource="#item_331"/>
+        <dcterms:isReferencedBy rdf:resource="#item_332"/>
+        <dcterms:isReferencedBy rdf:resource="#item_333"/>
+        <dcterms:isReferencedBy rdf:resource="#item_334"/>
+        <dcterms:isReferencedBy rdf:resource="#item_335"/>
+        <dcterms:isReferencedBy rdf:resource="#item_336"/>
+        <dcterms:isReferencedBy rdf:resource="#item_337"/>
+        <dcterms:isReferencedBy rdf:resource="#item_338"/>
+        <dc:title>CI/CD pipeline integration challenges in mobile test automation</dc:title>
+        <dc:date>2023</dc:date>
+        <bib:pages>111487</bib:pages>
+    </bib:Article>
+   <bib:Memo rdf:about="#item_319"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_320"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_321"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_322"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_323"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_324"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_325"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_326"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_327"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_328"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_329"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_330"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_331"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_332"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_333"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_334"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_335"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_336"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_337"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_338"><rdf:value></rdf:value></bib:Memo>
+    <bib:Book rdf:about="#item_122">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kuhn</foaf:surname>
+                        <foaf:givenName>D. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_339"/>
+        <dcterms:isReferencedBy rdf:resource="#item_340"/>
+        <dcterms:isReferencedBy rdf:resource="#item_341"/>
+        <dcterms:isReferencedBy rdf:resource="#item_342"/>
+        <dcterms:isReferencedBy rdf:resource="#item_343"/>
+        <dcterms:isReferencedBy rdf:resource="#item_344"/>
+        <dcterms:isReferencedBy rdf:resource="#item_345"/>
+        <dcterms:isReferencedBy rdf:resource="#item_346"/>
+        <dcterms:isReferencedBy rdf:resource="#item_347"/>
+        <dcterms:isReferencedBy rdf:resource="#item_348"/>
+        <dcterms:isReferencedBy rdf:resource="#item_349"/>
+        <dcterms:isReferencedBy rdf:resource="#item_350"/>
+        <dcterms:isReferencedBy rdf:resource="#item_351"/>
+        <dcterms:isReferencedBy rdf:resource="#item_352"/>
+        <dcterms:isReferencedBy rdf:resource="#item_353"/>
+        <dcterms:isReferencedBy rdf:resource="#item_354"/>
+        <dcterms:isReferencedBy rdf:resource="#item_355"/>
+        <dcterms:isReferencedBy rdf:resource="#item_356"/>
+        <dcterms:isReferencedBy rdf:resource="#item_357"/>
+        <dcterms:isReferencedBy rdf:resource="#item_358"/>
+        <dcterms:isReferencedBy rdf:resource="#item_359"/>
+        <dc:title>Introduction to Software Testing</dc:title>
+        <dc:date>2017</dc:date>
+    </bib:Book>
+   <bib:Memo rdf:about="#item_339"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_340"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_341"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_342"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_343"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_344"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_345"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_346"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_347"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_348"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_349"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_350"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_351"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_352"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_353"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_354"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_355"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_356"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_357"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_358"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_359"><rdf:value></rdf:value></bib:Memo>
+    <rdf:Description rdf:about="#item_123">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Proceedings of ISSTA</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mao</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>al</foaf:surname>
+                        <foaf:givenName>et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_360"/>
+        <dcterms:isReferencedBy rdf:resource="#item_361"/>
+        <dcterms:isReferencedBy rdf:resource="#item_362"/>
+        <dcterms:isReferencedBy rdf:resource="#item_363"/>
+        <dcterms:isReferencedBy rdf:resource="#item_364"/>
+        <dcterms:isReferencedBy rdf:resource="#item_365"/>
+        <dcterms:isReferencedBy rdf:resource="#item_366"/>
+        <dcterms:isReferencedBy rdf:resource="#item_367"/>
+        <dcterms:isReferencedBy rdf:resource="#item_368"/>
+        <dcterms:isReferencedBy rdf:resource="#item_369"/>
+        <dcterms:isReferencedBy rdf:resource="#item_370"/>
+        <dcterms:isReferencedBy rdf:resource="#item_371"/>
+        <dcterms:isReferencedBy rdf:resource="#item_372"/>
+        <dcterms:isReferencedBy rdf:resource="#item_373"/>
+        <dcterms:isReferencedBy rdf:resource="#item_374"/>
+        <dcterms:isReferencedBy rdf:resource="#item_375"/>
+        <dcterms:isReferencedBy rdf:resource="#item_376"/>
+        <dcterms:isReferencedBy rdf:resource="#item_377"/>
+        <dcterms:isReferencedBy rdf:resource="#item_378"/>
+        <dcterms:isReferencedBy rdf:resource="#item_379"/>
+        <dcterms:isReferencedBy rdf:resource="#item_380"/>
+        <dcterms:isReferencedBy rdf:resource="#item_381"/>
+        <dc:title>Sapienz: Multi-objective automated testing for Android apps</dc:title>
+        <dc:date>2016</dc:date>
+        <bib:pages>94–105</bib:pages>
+    </rdf:Description>
+   <bib:Memo rdf:about="#item_360"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_361"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_362"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_363"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_364"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_365"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_366"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_367"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_368"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_369"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_370"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_371"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_372"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_373"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_374"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_375"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_376"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_377"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_378"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_379"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_380"><rdf:value></rdf:value></bib:Memo>
+   <bib:Memo rdf:about="#item_381"><rdf:value></rdf:value></bib:Memo>
+</rdf:RDF>
